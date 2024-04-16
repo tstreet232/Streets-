@@ -3,7 +3,8 @@ body {
   text-align: center;
   background-color: #EAE0D5;
   background-repeat: no-repeat;
-  background-size: 100%;
+  
+ 
 }
 
 
@@ -55,6 +56,9 @@ a{
 .topnav {
   background-color: #0A0908;
   overflow: hidden;
+  top: 0;
+  position: fixed;
+  width: 100%;
 }
 
 
@@ -66,7 +70,6 @@ a{
   height: 40px;
   top: 0;
   float: left;
-  display: block;
   color: #f2f2f2;
   text-align: left;
   padding: 14px 16px;
@@ -89,3 +92,12 @@ a{
 .topnav .icon {
   display: none;
 }
+
+
+.dessert{
+  text-align:  right top;
+}
+
+  
+ 
+
